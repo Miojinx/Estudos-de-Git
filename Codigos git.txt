@@ -6,7 +6,7 @@ git commit -m"insira uma mensagem aqui sobre a versão"
 git push - envia o commit para o github
 git remote add origin (link do repositorio) - para onde devem ser enviados os commits
 nova alteração-----------------------------------------
-git push --set-upstream origin master - seleciona para qual branch vai as atualizações
+git push --set-upstream origin master - adiciona a branch ao github
 git reflog - mostra o histórico de versões
 git reset -- hard (id da versão) - volta a uma versão anterior
 git branch - mostra quais branches estão disponiveis no momento
