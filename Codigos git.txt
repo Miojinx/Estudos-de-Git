@@ -9,5 +9,7 @@ nova alteração-----------------------------------------
 git push --set-upstream origin master - seleciona para qual branch vai as atualizações
 git reflog - mostra o histórico de versões
 git reset -- hard (id da versão) - volta a uma versão anterior
+bla bla bla erro
+
 
 
