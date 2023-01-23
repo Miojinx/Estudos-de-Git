@@ -1,0 +1,2 @@
+git init - inicializa repositorio
+git status - mostra quais arquivos estão incluidos no controle de versão e quais não estão
