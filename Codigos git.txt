@@ -1,2 +1,10 @@
 git init - inicializa repositorio
 git status - mostra quais arquivos estão incluidos no controle de versão e quais não estão
+git add "nome do arquivo" - prepara o arquivo para ser adicionado ao controle de versão
+git add . - adiciona todos os arquivos pendentes para o controle de versão
+git commit -m"insira uma mensagem aqui sobre a versão"
+git push - envia o commit para o github
+git remote add origin (link do repositorio) - para onde devem ser enviados os commits
+nova alteração-----------------------------------------
+git push --set-upstream origin master
+
