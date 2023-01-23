@@ -6,5 +6,6 @@ git commit -m"insira uma mensagem aqui sobre a versão"
 git push - envia o commit para o github
 git remote add origin (link do repositorio) - para onde devem ser enviados os commits
 nova alteração-----------------------------------------
-git push --set-upstream origin master
+git push --set-upstream origin master - seleciona para qual branch vai as atualizações
+
 
