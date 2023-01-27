@@ -15,6 +15,8 @@ git branch (nome) - adiciona nova branch
 git checkout (nome) - troca a branch atual
 git checkout -b (nome nova branch) (branch que será a base) - cria nova branch com base em outra
 git merge (branch de onde vai puxar) puxa os códigos da branch selecionada para a atual
+touch .gitignore - cria um arquivo para guardar arquivos a serem ignorados no controle de versão
+abra esse arquivo com o bloco de notas e escreva pastas a serem ignoradas seguidas de uma barra, ex: segredos/
 
 ciclo de uniao do codigo
 git pull da branch principal
