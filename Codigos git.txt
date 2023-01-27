@@ -4,6 +4,7 @@ git add "nome do arquivo" - prepara o arquivo para ser adicionado ao controle de
 git add . - adiciona todos os arquivos pendentes para o controle de versão
 git commit -m"insira uma mensagem aqui sobre a versão"
 git push - envia o commit para o github
+git pull - traz a versão mais recente no github para o servidor local
 git remote add origin (link do repositorio) - para onde devem ser enviados os commits
 nova alteração-----------------------------------------
 git push --set-upstream origin master - adiciona a branch ao github
@@ -14,3 +15,9 @@ git branch (nome) - adiciona nova branch
 git checkout (nome) - troca a branch atual
 git merge (branch de onde vai puxar) puxa os códigos da branch selecionada para a atual
 
+ciclo de uniao do codigo
+git pull da branch principal
+gerar nova branch
+trabalhar e adicionar novas funcionalidade na nova branch
+finalizar o trabalho da branch temporaria
+unir as duas
