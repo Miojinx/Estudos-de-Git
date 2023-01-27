@@ -13,6 +13,7 @@ git reset -- hard (id da versão) - volta a uma versão anterior
 git branch - mostra quais branches estão disponiveis no momento
 git branch (nome) - adiciona nova branch
 git checkout (nome) - troca a branch atual
+git checkout -b (nome nova branch) (branch que será a base) - cria nova branch com base em outra
 git merge (branch de onde vai puxar) puxa os códigos da branch selecionada para a atual
 
 ciclo de uniao do codigo
